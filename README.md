@@ -10,7 +10,7 @@ For this project, I have applied deep learning using CNNs to classify satellite 
 This repository includes three final notebooks:<br>
 * [Data Acquisition, Checking, and Preparation](SatelliteImagery_DataPreparation.ipynb)
 * [Satellite Imagery Classification with a Simple CNN](SatelliteImageryClassification-BaselineFinal.ipynb)
-* [Satellite Imagery Classification with Transfer Learning](SatelliteImageryClassification-BaselineFinal.ipynb)
+* [Satellite Imagery Classification with Transfer Learning](SatelliteImageryClassification-TransferFinal.ipynb)
 
 The results are documented in a [Final Report](Final%20Report.pdf) and 
 [Final Presentation](Capstone%201%20-%20Slides%20Final.pdf)
