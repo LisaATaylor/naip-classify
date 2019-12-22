@@ -5,7 +5,7 @@
 
 Satellite imagery is crucial for many applications in agriculture, city planning, natural resource management, environmental monitoring, and disaster response.  Since satellite imagery can cover large areas, the labor costs to manually categorize land uses within the imagery can be prohibitive.  Deep learning has emerged as an important approach for automating land use classification over extensive areas.
 
-For this project, I have applied deep learning using CNNs to classify satellite image tiles into six land use classes using the [DeepSat-6 dataset available on Kaggle](https://www.kaggle.com/crawford/deepsat-sat6).  Two approaches were implemented:  building a custom CNN from scratch and using a pre-trained CNN.  Both approaches achieved over 96% accuracy on held-out data.  
+For this project, I have applied deep learning using CNNs to classify satellite image tiles into six land use classes using the [DeepSat-6 dataset available on Kaggle](https://www.kaggle.com/crawford/deepsat-sat6).  Two approaches were implemented in Keras:  building a custom CNN from scratch and using a pre-trained CNN.  Both approaches achieved over 96% accuracy on held-out data.  
 
 This repository includes three final notebooks:<br>
 * [Data Acquisition, Checking, and Preparation](SatelliteImagery_DataPreparation.ipynb)
