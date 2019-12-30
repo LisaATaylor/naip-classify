@@ -14,7 +14,7 @@ This repository includes three final notebooks:<br>
 * [Satellite Imagery Classification with Transfer Learning](SatelliteImageryClassification-TransferFinal.ipynb)
 
 The results are documented in a [Final Report](Capstone%202%20Final%20Report.pdf) and 
-[Final Presentation](Capstone%202%20Final%20Slides.pdf)
+[Final Presentation](Capstone%202%20Final%20Presentation.pdf)
 
 ![Tiles](examples.png)
 
